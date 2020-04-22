@@ -5,7 +5,7 @@ services:
   - docker
 env:
   global:
-    - PACT_BROKER_BASE_URL=https://nathan.deamer.pact.dius.com.au
+    - PACT_BROKER_BASE_URL=https://nathandeamer.pact.dius.com.au
     - PACT_BROKER_PUBLISH_VERIFICATION_RESULTS=true
     # Encrypted PACT_BROKER_TOKEN
     - secure: e+Wd+wLMvozlZA0WAfIxx3728NTM1+nGZzHEJ1TCYPTTRk3WrgwjRGZumQtxRXr0tBRvSIkTPsQQyIy96On9L9xlC2IaghbuM8brCBX2ASgZEyHVRVz70ZDkSkt7b+QdwOf+kMBxxLq6rT1wDSZLCXjL7jdDqDLbwq4G3t8xtHCP+wjBtbENNLW+thsSFFsIzmAWQyPtuWFWKEgoMyW25u/6qPKQgxlMakemlznIpY1nhvIg7u6X9l/OCuMH16oKPmBkSVNSdYftvDYdfGIYGrBanoHjQQAZVQM/aBJgD+RpLtQxbJXq/IcCxtY0O7R0oUHSz3WiW7/69SmMJcieWA6nYwjxrieKrOQ3jlobKdLeQJJdOvZgP2CrvolsfLkTeH6k2GATvc76y7KnhpaHU///zKNe6XB+LA/45W3Q5lYhQ4fDr0K7nkSlywczctHQ99/+iSGKPDvA96qHMN4A/nSri0fJfN0M2eIf2EtEzH4mH+EWxSEJMYs8E+t+8tiX5oQZ+g+xf75zM1WypmkIF8MYvbuL8PMuh2NFtZG56nkbtlIOujQcPOMqaSkpy8bJr26SBZ9g82zgCW7VatmDGNZL7MQ+DN1zKduuNYWhM9PiBtCa4LXe1o2IUkhx44D4qyJX7a8TBeF0JqUlmm/aHUnQ/TR9/s2TpsNTvB+Qmeo=
